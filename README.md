@@ -1,4 +1,4 @@
-# App-Cart-Front
+# App-Cart-Frontend
 
 Shooping Cart Excercice
 
